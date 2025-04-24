@@ -3,7 +3,7 @@ const categoriesData = [
         "categories": [
             {
                 "title": "Organisation familiale",
-                "image": "./assets/Quizz/orga-famille.png",
+                "image": "./assets/images/Quizz/orga-famille.png",
                 "questions": [
                     {
                         "question": "Imaginez le lundi matin : le réveil sonne, les enfants cherchent leurs affaires, le café déborde... <br>Votre planning familial c’est plutôt :",
@@ -49,7 +49,7 @@ const categoriesData = [
             },
             {
                 "title": "Vie professionnelle",
-                "image": "./assets/Quizz/vie-pro.png",
+                "image": "./assets/images/Quizz/vie-pro.png",
                 "questions": [
                   {
                     "question": "Devant votre to-do list du matin, votre réaction :",
@@ -95,7 +95,7 @@ const categoriesData = [
             },
             {
                 "title": "Charge émotionnelle",
-                "image": "./assets/Quizz/charge-emo.png",
+                "image": "./assets/images/Quizz/charge-emo.png",
                 "questions": [
                     {
                         "question": "Qui pense aux cadeaux d’anniversaire, cartes et autres attentions familiales ?",
@@ -141,7 +141,7 @@ const categoriesData = [
             },
             {
                 "title": "Gestion des imprévus",
-                "image": "./assets/Quizz/imprevus.png",
+                "image": "./assets/images/Quizz/imprevus.png",
                 "questions": [
                     {
                         "question": "Quand tout part en vrille (panne de réveil, tache sur le pantalon, mail urgent) :",
@@ -187,7 +187,7 @@ const categoriesData = [
             },
             {
                 "title": "Prise de temps pour soi",
-                "image": "./assets/Quizz/tps-pour-soi.png",
+                "image": "./assets/images/tps-pour-soi.png",
                 "questions": [
                     {
                         "question": "La dernière fois que vous avez fait quelque chose juste pour vous (sans enfant, sans ménage, sans 'juste un truc rapide') :",
@@ -233,7 +233,7 @@ const categoriesData = [
             },
             {
                 "title": "Symptômes de la charge mentale",
-                "image": "./assets/Quizz/symptomes-cm.png",
+                "image": "./assets/images/Quizz/symptomes-cm.png",
                 "questions": [
                     {
                         "question": "Le soir au coucher, vos pensées ressemblent à :",
