@@ -19,7 +19,7 @@ get_header(); ?>
     </div>
 
     <div class="about-paragraph2">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/about-me-picture.jpg" alt="Florence en bord de mer">
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/about-me-picture.jpg" alt="Florence en bord de mer">
         <p><span class="about-text-highlight">Puis un matin, tout a basculé.</span><br><br>
         Alors que je criais une fois de plus sur mes enfants...
         </p>

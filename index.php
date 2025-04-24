@@ -4,7 +4,7 @@
     <div class="header-text">
         <div>
             <h1>Déclic magique</h1>
-            <p class="header-subtitle">Florence Hoarau ~ Coach experte en charge mentale et déclencheuse de déclics</p>
+            <p class="header-subtitle">Florence Hoarau ~ Coach experte en charge mentale et declencheuse de declics</p>
         </div>
         <div class="CTA">
             <p class="cta-text">Tu en as assez de subir la charge mentale et tu veux reprendre le contrôle de ta vie rapidement ?<br><br>Découvre comment grâce au test du déclic !</p>
@@ -27,7 +27,7 @@
     <h2>Qui suis-je ?</h2>
     <div class="about-me-content">
         <div class="about-me-picture">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/about-me-mainpicture.png" alt="portrait de Florence">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/about-me-mainpicture.png" alt="portrait de Florence">
         </div>
         <div class="about-me-text">
             <p>Je suis Florence, je suis maman de 2 enfants et j’ai connu cet état de mal-être. <br><br>Dès lors que je m’en suis sortie, je n’avais qu’un désir : vous accompagner vers vos propres déclics.</p>

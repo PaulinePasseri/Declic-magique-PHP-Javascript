@@ -19,7 +19,7 @@
 <body <?php body_class(); ?>>
 
 <nav>
-    <img src="<?php echo get_template_directory_uri(); ?>/assets/logo.png" alt="Logo déclic magique"/>
+    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png" alt="Logo déclic magique"/>
     <ul>
         <li><a href="<?php echo home_url(); ?>" class="nav">Accueil</a></li>
         <li><a href="<?php echo site_url('/about'); ?>" class="nav">Qui suis-je ?</a></li>
